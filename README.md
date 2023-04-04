@@ -8,9 +8,9 @@ A Passionate MERN Stack Developer with hands-on experience in designing, develop
 Here are some ideas to get you started:
 
 <h3>Languages & Tools</h3>
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
+![javascript-original](https://user-images.githubusercontent.com/107942112/229851120-2f60c983-58ef-45ac-8003-98559d5d16d4.svg)
 
+ 
 🌱 I’m currently learning MongoDb, Express, React, NodeJS
 
 👨‍💻 All of my projects are available at https://sachintewatia-tech.github.io/
